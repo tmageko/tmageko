@@ -1,5 +1,6 @@
 ## Hi there 👋
-👩‍💻**Software Developer**
+
+👩‍💻 **Software Developer**  
 📚 Studied Computer Science at **Igor Sikorsky Kyiv Polytechnic Institute (KPI)**
 
 ---
@@ -27,4 +28,4 @@
 
 ### 🐧 Penguin
 
-![Penguin](https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif?cid=790b7611q4b7d9kqyqz1z1f1w1f1f1f1f1f1f1f1f1f1f1&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![Penguin](https://media.tenor.com/-o6L9Rr8PmEAAAAi/penguin-love.gif)
