@@ -28,4 +28,4 @@
 
 ### 🐧 Penguin
 
-![Penguin](https://github.com/user-attachments/assets/3a2a5d2a-7b3e-4a5e-9b8c-1a2b3c4d5e6f)
+![Penguin](https://raw.githubusercontent.com/tmageko/tmageko/main/penguin.gif)
