@@ -23,9 +23,3 @@
 ### 🏆 Quote of the Day
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-### 🐧 Penguin
-
-![Penguin](https://raw.githubusercontent.com/tmageko/tmageko/main/penguin.gif)
