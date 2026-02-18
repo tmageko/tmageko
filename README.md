@@ -16,12 +16,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-### 📊 GitHub Stats
-
-![tmageko's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmageko&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmageko&layout=compact&theme=radical)
-
 ---
 
 ### 🏆 Quote of the Day
