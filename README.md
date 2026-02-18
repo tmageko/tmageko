@@ -28,4 +28,4 @@
 
 ### 🐧 Penguin
 
-![Penguin](https://media.tenor.com/-o6L9Rr8PmEAAAAi/penguin-love.gif)
+![Penguin](https://media.tenor.com/9X9Q8XZQ8YwAAAAi/penguin-coding.gif)
