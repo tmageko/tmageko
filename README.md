@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+👩‍💻**Software Developer**
+📚 Studied Computer Science at **Igor Sikorsky Kyiv Polytechnic Institute (KPI)**
 ### 💻 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -12,3 +13,23 @@
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+### 📊 GitHub Stats
+
+![tmageko's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmageko&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmageko&layout=compact&theme=radical)
+
+---
+
+### 🏆 Quote of the Day
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+### 🐧 Penguin
+
+![Penguin](https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif?cid=790b7611q4b7d9kqyqz1z1f1w1f1f1f1f1f1f1f1f1f1f1&ep=v1_gifs_search&rid=giphy.gif&ct=g)
