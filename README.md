@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Tanya 👋
 
 👩‍💻 **Software Developer**  
 📚 Studied Computer Science at **Igor Sikorsky Kyiv Polytechnic Institute (KPI)**
