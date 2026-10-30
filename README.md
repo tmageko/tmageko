@@ -19,7 +19,6 @@
 ![MIT App Inventor](https://img.shields.io/badge/MIT%20App%20Inventor-FF6B4A?style=for-the-badge&logo=appinventor&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
 ---
 
 ### 🏆 Quote of the Day
