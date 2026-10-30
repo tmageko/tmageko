@@ -3,12 +3,8 @@
 👩‍💻 **Software Developer**  
 📚 Studied Computer Science at **Igor Sikorsky Kyiv Polytechnic Institute (KPI)**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tmageko&show_icons=true&theme=dracula&title_color=a855f7&text_color=e2e8f0&bg_color=0f172a&hide_border=true&border_radius=8" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmageko&layout=compact&theme=dracula&title_color=a855f7&text_color=e2e8f0&bg_color=0f172a&hide_border=true&border_radius=8" width="48%" alt="Top Languages" />
-</p>
-
 ---
+
 ### 💻 Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
